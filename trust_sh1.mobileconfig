@@ -2,9 +2,46 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ProxyAutoConfigEnable</key>
+	<key>AppIDName</key>
+	<string>etherqu</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+	<string>TUF25T775Z</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2016-09-28T03:42:41Z</date>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>MIIF0DCCBLigAwIBAgIINIdhv2ft4sQwDQYJKoZIhvcNAQEFBQAwgZYxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTYwOTI4MDMyOTI0WhcNMTkwOTI4MDMyOTI0WjCB0TEaMBgGCgmSJomT8ixkAQEMClRVRjI1VDc3NVoxUjBQBgNVBAMMSWlQaG9uZSBEaXN0cmlidXRpb246IFNIRU4gWkhFTiBDT0ZMT1VSSVNIIEVMRUNUUk9OSUMgVEVDSE5PTE9HWSBDTy4sIExURC4xEzARBgNVBAsMClRVRjI1VDc3NVoxPTA7BgNVBAoMNFNIRU4gWkhFTiBDT0ZMT1VSSVNIIEVMRUNUUk9OSUMgVEVDSE5PTE9HWSBDTy4sIExURC4xCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyFE7LU+RKrxWL9deMowhnkPKTWROEPBt0SLvIdx8l3g7laXasi7Ol4VFLpwml+JkZTjomi7WDTOYsiUJ9r+qTCU15luDLOne9cH4bkd7GZdljL3U6WKhb+xhbaSZZ2Uj3qeSOYQZolCcXtwgB+1wjZvHvqp+Luod2TzTmYRKsHMddFMr3/+kMheZFzP8FAgzOvphL+04nV9ZxCxtzFCT7xfFBvh/oBzLxaTfBz/O51+LX5VhLxMBsNW+SE+6ya33sOPmlyROVdBDUwpBtWczDJ7lnmnJvip2NzCLtWHuj20LLDbNRZIYdGbjeEWQdDMkIzarrNs0E38eKcCHa+0BywIDAQABo4IB4zCCAd8wPwYIKwYBBQUHAQEEMzAxMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5hcHBsZS5jb20vb2NzcDAyLXd3ZHIwMTAdBgNVHQ4EFgQUJaq6gOhQyyJnnl7EQbh1RHI1IyIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSIJxcJqbYYYIvs67r2R1nFUlSjtzCCAQ8GA1UdIASCAQYwggECMIH/BgkqhkiG92NkBQEwgfEwgcMGCCsGAQUFBwICMIG2DIGzUmVsaWFuY2Ugb24gdGhpcyBjZXJ0aWZpY2F0ZSBieSBhbnkgcGFydHkgYXNzdW1lcyBhY2NlcHRhbmNlIG9mIHRoZSB0aGVuIGFwcGxpY2FibGUgc3RhbmRhcmQgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdXNlLCBjZXJ0aWZpY2F0ZSBwb2xpY3kgYW5kIGNlcnRpZmljYXRpb24gcHJhY3RpY2Ugc3RhdGVtZW50cy4wKQYIKwYBBQUHAgEWHWh0dHA6Ly93d3cuYXBwbGUuY29tL2FwcGxlY2EvMA4GA1UdDwEB/wQEAwIHgDAWBgNVHSUBAf8EDDAKBggrBgEFBQcDAzATBgoqhkiG92NkBgEEAQH/BAIFADANBgkqhkiG9w0BAQUFAAOCAQEAmEiUbcvnALn1LuIP8fNfq3CqYDjCnx987XlzKNZPjMVplU3GEpvvrKTnil+kDXOjBTlXCtUJYX6b923TGw9RnJqAmJSrPk2ZdGqzNnM486mT1O6MfAvIcL6jTIgm2/erQLfjvMvikYMSKuKry4Xl0jCepCVv7TE0FLDwVqNuBMUy7/c+5hNFoJnfhCB5bGfHBxqN5NNW6Iq7zyqUV5N4XfnuzEWNSd62w/3ToIyxeZewVXpuYNoChxt+nzZmv7M8IlpXf4ojfXNn/Q5jIeQvkfUVwzvA5je84aQk/SbwhfCvz6BTBcG5FY2W9rN6UTu/IngEAIqclOJlErk5qj6Epw==</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+        <key>ProxyAutoConfigEnable</key>
+        <integer>1</integer>
+        <key>ProxyAutoConfigURLString</key>
+        <string>https://raw.githubusercontent.com/margrop/staticfiles/master/socks5_sh1_8890.pac</string>
+    </dict>
+	<key>ExpirationDate</key>
+	<date>2017-09-28T03:42:41Z</date>
+	<key>Name</key>
+	<string>etherqu</string>
+	<key>ProvisionsAllDevices</key>
+	<true/>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>TUF25T775Z</string>
+	</array>
+	<key>TeamName</key>
+	<string>SHEN ZHEN COFLOURISH ELECTRONIC TECHNOLOGY CO., LTD.</string>
+	<key>TimeToLive</key>
+	<integer>365</integer>
+	<key>UUID</key>
+	<string>680a98fd-43b3-4376-a498-ebd58854695a</string>
+	<key>Version</key>
 	<integer>1</integer>
-	<key>ProxyAutoConfigURLString</key>
-	<string>https://raw.githubusercontent.com/margrop/staticfiles/master/socks5_sh1_8890.pac</string>
 </dict>
 </plist>
